@@ -4,7 +4,7 @@
 
 ## Este Trabalho foi realizado em dupla
 
-Juntamente de [Pablo Santos](https://github.com/BiscuI)
+### Juntamente de [Pablo Santos](https://github.com/BiscuI)
 
 # Tarefa:
 
@@ -88,7 +88,7 @@ O não cumprimento de algum dos critérios de avaliação especificados poderá 
 
 Caso haja qualquer dúvida, questionamento ou necessidade de informação adicional, é possível:
 
-- enviar _e-mail_ para o endereço everton.cavalcante@ufrn.br;
+- enviar _e-mail_ para o endereço;
 - enviar mensagem privada diretamente ao docente, utilizando o servidor Discord;
 - enviar mensagem no canal de texto `#duvidas` no servidor Discord, ou;
 - agendar encontros síncronos pelo canal de áudio `Fale com Prof. Everton` no servidor Discord.
